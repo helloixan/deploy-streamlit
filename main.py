@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Streamlit Exploration")
-st.text("Lorem ipsum di Almet.")
+st.text("Percobaan Streamlit.")
 st.header("This is header")
 
 nama = st.text_input(label="Nama", value="Masukan nama anda disini", key="input1")
