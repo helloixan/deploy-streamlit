@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("This is title")
+st.title("Streamlit Exploration")
 st.text("Lorem ipsum di Almet.")
 st.header("This is header")
 
